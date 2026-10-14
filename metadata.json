@@ -1,0 +1,6 @@
+{
+  "name": "Surreal Circus",
+  "description": "A highly polished, non-violent, surreal 3D-perspective circus and amusement attraction experience, where every action creates musical harmony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
